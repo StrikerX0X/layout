@@ -1,0 +1,29 @@
+header{
+    background-color: cyan;
+    text-align: center;
+}
+article{
+    background-color: brown;
+    text-align: center;
+    color: white;
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+aside{
+    background-color: yellowgreen;
+    text-align: center;
+    height: 300px;
+    width: 50%;
+    float: right;
+}
+.article-section{
+    overflow: hidden;
+
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 80px;
+    text-align: center;
+}
